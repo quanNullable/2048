@@ -1,0 +1,4 @@
+repository "2048@ssl://quannullable@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main"    
+     
